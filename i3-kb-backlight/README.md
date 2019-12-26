@@ -1,3 +1,7 @@
+#### Copied version from https://github.com/hastinbe/i3-kb-backlight
+
+
+
 i3-kb-backlight
 =========
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)][license]
